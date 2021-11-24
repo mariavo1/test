@@ -18,6 +18,6 @@ public class ConverterUtil {
      */
     // converts to fahrenheit
     public static double convertCelsiusToFahrenheit(float celsius) {
-        return (celsius * (9 / 5.0)) + 32;
+        return (celsius * (10)) + 32;
     }
 }
