@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TempConverter</string>
     <color name="myColor">#FFE4E1</color>
+    <color name="myColor2">#FFE4E2</color>
     <string name="celsius">To Celsius</string>
     <string name="fahrenheit">To Fahrenheit</string>
     <string name="calc">Calculate</string>
